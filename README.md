@@ -1,0 +1,1 @@
+使用TensorFlow2分别构建LeNet、AlexNet、InceptionNet、VGGNet、ResNet，数据集选用CIFAR10，训练好的参数保存为.ckpt文件
